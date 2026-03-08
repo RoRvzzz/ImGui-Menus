@@ -59,4 +59,46 @@ A comprehensive collection of custom ImGui menus and loaders for DirectX 9 and D
 | **Misterio Evicted** | DX9 | ![Link](https://i.imgur.com/Hexy5xq.png) |
 | **Misterio Orthodox** | DX11 | ![Link](https://i.imgur.com/Y0dsL88.png) |
 | **Misterio Project Name** | DX9 | ❌ |
-| **Misterio Skeet Fire.
+| **Misterio Skeet Fire.cc** | DX11 | ![Link](https://i.imgur.com/1hGrJGU.png) |
+| **Misterio STELLAR** | DX11 | ❌ |
+| **Namecheat** | DX9 | ❌ |
+| **Nemezida** | DX9 | ❌ |
+| **Nemesis** | DX9 | ❌ |
+| **Neverlose** | DX9 | ❌ |
+| **Nixware CC** | DX9 | ❌ |
+| **Obelus** | DX9 | ❌ |
+| **Obelus Menu** | DX9 | ❌ |
+| **OLoader** | DX11 | ❌ |
+| **OneTap V5** | DX9 | ❌ |
+| **OTC3 ImGui Menu** | DX9 | ❌ |
+| **Ostin TrustCode** | DX11 | ❌ |
+| **Pandora.gg** | DX9 | ❌ |
+| **Past Owl Aternos** | DX11 | ❌ |
+| **Past Owl Deadcode** | DX11 | ❌ |
+| **Past Owl ION Loader** | DX9 | ❌ |
+| **Past Owl RAGNAREK** | DX11 | ❌ |
+| **Past Owl Sapphire** | DX11 | ❌ |
+| **Past Owl Squad** | DX11 | ❌ |
+| **Past Owl Synthetic** | DX11 | ❌ |
+| **Past Owl Factura** | DX11 | ❌ |
+| **PastOwl Sapphire Loader** | DX11 | ❌ |
+| **Phobia 2.0** | DX9 | ❌ |
+| **PlagueCheat V4** | DX9 | ❌ |
+| **Predatar Loader** | DX9 | ❌ |
+| **Predator** | DX9 | ❌ |
+| **Predator v2** | DX9 | ❌ |
+| **Primordial** | DX9 | ❌ |
+| **Project Name** | DX9 | ❌ |
+| **Random ImGui** | DX9 | ❌ |
+| **Retro Menu** | OpenGL3 | ❌ |
+| **SHDRAW (prism)** | DX9 | ❌ |
+| **Skeet Menu** | DX11 | ❌ |
+| **Skvizxcc Pandora** | DX9 | ❌ |
+| **STELLAR** | DX11 | ❌ |
+| **Sunder** | DX9 | ❌ |
+| **UC Menu** | DX11 | ❌ |
+| **Untitled** | DX11 | ❌ |
+| **Vanguard-Leak** | DX9 | ❌ |
+| **Weave Menu Remake** | DX9 | ❌ |
+| **WinImGui** | DX11 | ❌ |
+| **Zoom Project** | DX9 | ❌ |
